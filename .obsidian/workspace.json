@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "356c380e40234279",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a4fb62a713a0a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3faac752ef1eecf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linux/Linux File System.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux File System.md"
+            }
+          },
+          {
+            "id": "d58ea382582e30d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linux/Common Commands.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Commands.md"
+            }
+          },
+          {
+            "id": "4f7beb1885c7e82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linux/Permissions.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permissions.md"
+            }
+          },
+          {
+            "id": "8739879cbb3cbca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linux/Processes.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processes.md"
+            }
+          },
+          {
+            "id": "b2d8e3d8fda258e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linux/Networking Commands.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking Commands.md"
+            }
+          },
+          {
+            "id": "c107add6460af40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Daily Notes/2026-02-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-15"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf6f3a2574f3287d",
+    "type": "split",
+    "children": [
+      {
+        "id": "addd52c480777271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c635936bafec60a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e24c934a01d5edd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03bcb246219f3688",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d3be8fe1f021e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "06acea91b4d25727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b385b3f4cfa123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Daily Notes/2026-02-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-15"
+            }
+          },
+          {
+            "id": "a0f8d3995c8d1571",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Daily Notes/2026-02-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-15"
+            }
+          },
+          {
+            "id": "2a42dbc54a2cfa92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efe3f59d3a853a4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "921daec492c764e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Daily Notes/2026-02-15.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c107add6460af40d",
+  "lastOpenFiles": [
+    "00 - Daily Notes/2026-02-15.md",
+    "00 - Daily Notes",
+    "02 - Networking/IP Addressing.md.md",
+    "01 - Linux/Networking Commands.md.md",
+    "02 - Networking/HTTP.md.md",
+    "02 - Networking/DNS.md.md",
+    "02 - Networking/TCP vs UDP.md.md",
+    "02 - Networking/OSI Model.md.md",
+    "01 - Linux/Processes.md.md",
+    "01 - Linux/Permissions.md.md",
+    "01 - Linux/Common Commands.md.md",
+    "01 - Linux/Linux File System.md.md",
+    "Welcome.md",
+    "01 - Linux",
+    "05 - Scripts",
+    "04 - Projects",
+    "99 - Inbox",
+    "03 - Security+",
+    "02 - Networking"
+  ]
+}
